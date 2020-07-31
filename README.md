@@ -1,2 +1,3 @@
 # HOW-TO-TRACK-YOUR-DRAGON-A-MULTI-ATTENTIONAL-FRAMEWORK-FOR-REAL-TIME-RGB-D-6DOF-OBJECT-POSE-TRACKIN
-ICIP 2020 Paper Submission
+Accepted at the 6th International Workshop on Recovering 6D Object Pose
+Organized at ECCV 2020
